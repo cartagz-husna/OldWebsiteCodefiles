@@ -19,5 +19,3 @@ https://github.com/cartagz-husna/OldWebsiteCodefiles/blob/master/filezilla/FileZ
 
 4. version control
 GIT
-cartagz-husna
-cartagz12345
