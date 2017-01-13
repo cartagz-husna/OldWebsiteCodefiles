@@ -15,6 +15,7 @@ List & Versions of softwares used for development
 3. Server tools
 -Filezilla
 Files with filezilla setting to access both old and new servers are uploaded on git in the filezilla folder - link below
+https://github.com/cartagz-husna/OldWebsiteCodefiles/blob/master/filezilla/FileZilla.xml
 
 4. version control
 GIT
